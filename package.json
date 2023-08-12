@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@vercel/node": "^2.15.9",
+    "apollo-server-express": "^3.12.0",
+    "express-graphql": "^0.12.0",
+    "pnpm": "^8.6.12"
+  },
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "It's a Assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build",
+    "start": "node index.js",
+    "start-server": "node index.js"
+  },
+  "author": "Devulapalli_Satya",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}

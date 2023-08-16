@@ -20,3 +20,5 @@ let TestData = [
         Age: "28",
     },
 ];
+
+module.exports = { TestData };
